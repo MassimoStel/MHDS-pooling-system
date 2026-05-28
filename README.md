@@ -15,6 +15,8 @@ Part of the **PENSO** grant / **SUPPORT ME** workpackage (CogNosco Lab).
 
 **MHDS Pooling System** is an interactive tool for the *Mental Health Digital Shadows (MHDS)* dataset: 75,000 LLM-generated responses across 15 large language models, each persona conditioned on sociodemographic and psychological attributes (Big Five / OCEAN and DASS-21 severity for depression, anxiety, and stress). Filter personas, then inspect each one's open-ended topic answers, emotional-recall (ERT) words, and DASS-21 scores — and export any subset as XLSX or PKL.
 
+The pooling system was designed by researchers [Ali Aghazadeh Ardebili](https://www.linkedin.com/in/ali-aghazadeh-ardebili-58a349b1/) and [Rodolfo Rizzi](https://www.linkedin.com/in/rodolfo-rizzi-3845742bb/). Contact them on LinkedIn for more details or consulting.
+
 <p align="center">
   <img src="assets/MHDS-pooling-system.png" alt="MHDS Pooling System dashboard" width="900">
 </p>
